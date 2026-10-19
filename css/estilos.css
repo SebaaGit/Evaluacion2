@@ -1,0 +1,12 @@
+/* Estilos sencillos para las tarjetas de usuarios */
+body {
+    background-color: #f4f6f9;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+.usuario {
+    height: 100%;
+}
